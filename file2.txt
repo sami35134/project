@@ -1,2 +1,1 @@
 we have learnt the basics of git
-we have also learnt ec2 of aws to create virtual server.
